@@ -15,8 +15,7 @@ Repositorio que presenta modelos y métodos probados sobre el dataset **CI-FAKE*
 - [📌 Descripción del Proyecto](#-descripción-del-proyecto)
 - [📊 Dataset](#-dataset)
 - [🧠 Modelos Utilizados](#-modelos-utilizados)
-- [⚙️ Requisitos](#️-requisitos)
-- [🚀 Ejecución](#-ejecución)
+- [⚙️ Requisitos](#️-Archivos-opcionales)
 - [📝 Resultados](#-resultados)
 - [📎 Referencias](#-referencias)
 
