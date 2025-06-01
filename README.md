@@ -1,6 +1,6 @@
 # Clasificación de Imágenes Reales o Generadas por IA
 
-![Banner](https://github.com/user-attachments/assets/b6a94084-8619-4a08-bcd1-eae42b480ce4)
+![Intelgencia artificial_page-0001](https://github.com/user-attachments/assets/1f683238-1e3d-4ef5-bfd9-e151d88b7d10)
 
 ---
 
@@ -14,17 +14,12 @@ Repositorio que presenta modelos y métodos probados sobre el dataset **CI-FAKE*
 
 - [📌 Descripción del Proyecto](#-descripción-del-proyecto)
 - [📊 Dataset](#-dataset)
+- [📁 Acceso al proyecto](#-acceso-al-proyecto)
 - [🧠 Modelos Utilizados](#-modelos-utilizados)
-- [⚙️ Requisitos](#️-Archivos-opcionales)
-- [📝 Resultados](#-resultados)
-- [📎 Referencias](#-referencias)
 
 ---
 
-<!-- Aquí puedes seguir desarrollando secciones como estas: -->
-
 ## 📊 Dataset
-
 
 The dataset contains two classes - REAL and FAKE.
 
@@ -35,6 +30,17 @@ For the FAKE images, they generated the equivalent of CIFAR-10 with Stable Diffu
 There are 100,000 images for training (50k per class) and 20,000 for testing (10k per class)
 
 🔗 [Ir al dataset en Kaggle](https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images)
+
+## 📁 Acceso al proyecto
+- Descarga y montar el archivo ´.ipynb´ a un collab notebook
+- Descargar la carpeta de ´Datos´ y ´Modelo´ y extraerla dentro de una carpeta personal (eleccion propia) de google drive donde se destinaran los archivos del proyecto
+
+### 🛠️ Abre y ejecuta el proyecto
+- 📌 Referencia para celdas de codigo que son auxiliares
+- 🥷🏿 Referencia a celdas para codigo que no usa etiquetas
+- 🏷️ Referencia a celdas para codigo que usa etiquetas
+- 🚨 En la primera celda (Montar Drive), se debe cambiar la ruta a la carpeta personal de Drive donde están los archivos del proyecto.
+- ✅ Solo es necesario ejecutar estas celdas si se desea trabajar únicamente con machine learning y clustering, sin entrenar modelos de deep learning ni procesar datos. pero se deben tener cargados los archivos del repositorio, o haber corrido el codigo antes
 
 ## 🧠 Modelos Utilizados
 ### Supervisados 🏷️
@@ -59,3 +65,8 @@ There are 100,000 images for training (50k per class) and 20,000 for testing (10
 - Acceso al Proyecto: Abierto
 - Tecnologías utilizadas: DeepLearning, MachineLearnig and clustering methods
 - Personas Desarrolladoras del Proyecto: Alejandro Castro Rondón y Nicolas Linares Rojas
+
+
+## :hammer:Funcionalidades del proyecto
+- `Funcionalidad 1`: Testeo de arquitecturas no supervisadas en clasificación de imagenes 
+- `Funcionalidad 2`: Identificacion de imagenes artificiales
