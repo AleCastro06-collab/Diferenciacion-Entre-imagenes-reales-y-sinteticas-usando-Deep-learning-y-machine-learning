@@ -38,14 +38,13 @@ There are 100,000 images for training (60k per class) and 20,000 for testing (10
 
 ## 📁 Acceso al proyecto
 - Descarga y montar el archivo ´.ipynb´ a un collab notebook
-- Descargar la carpeta de ´Datos´ y ´Modelos´ y extraerla dentro de una carpeta personal (eleccion propia) de google drive donde se destinaran los archivos del proyecto
 
 ### 🛠️ Abre y ejecuta el proyecto
 - 📌 Referencia para celdas de codigo que son auxiliares
 - 🥷🏿 Referencia a celdas para codigo que no usa etiquetas
 - 🏷️ Referencia a celdas para codigo que usa etiquetas
 - 🚨 En la primera celda (Montar Drive), se debe cambiar la ruta a la carpeta personal de Drive donde están los archivos del proyecto.
-- ✅ Solo es necesario ejecutar estas celdas si se desea trabajar únicamente con machine learning y clustering, sin entrenar modelos de deep learning ni procesar datos. pero se deben tener cargados los archivos del repositorio, o haber corrido el codigo antes
+- ✅ Despues de ejecutado el collab por primera vez, si se quiere trabajar sobre machine learning y clustering metods, solo hace falta ejecutar las celdas marcadas con este emoji, dado que los datos y modelos seran guardados en el drive personal de quien use el notebook
 
 ---
 
