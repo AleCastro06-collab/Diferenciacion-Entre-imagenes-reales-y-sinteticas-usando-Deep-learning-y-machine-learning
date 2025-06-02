@@ -18,6 +18,7 @@ Repositorio que presenta modelos y métodos probados sobre el dataset **CI-FAKE*
 - [🧠 Modelos Utilizados](#-modelos-utilizados)
 - [📃 Detalles](#-detalles)
 - [:hammer:Funcionalidades del proyecto]()
+- [🎥 video]()
 - [👨‍💻 Autores]()
 
 ---
@@ -79,6 +80,13 @@ There are 100,000 images for training (60k per class) and 20,000 for testing (10
 ## :hammer: Funcionalidades del proyecto
 - `Funcionalidad 1`: Testeo de arquitecturas no supervisadas en clasificación de imagenes 
 - `Funcionalidad 2`: Identificacion de imagenes artificiales
+
+---
+
+## 🎥 video
+https://youtu.be/tBBVRDBCrAo
+
+---
 
 ## 👨‍💻 Autores
 | [<img src="https://avatars.githubusercontent.com/u/120747172?v=4" width=115><br><sub>Alejandro Castro Rondón</sub>](https://github.com/AleCastro06-collab) | [<img src="https://avatars.githubusercontent.com/u/159267707?v=4" width=115><br><sub>Nicolas Linares Rojas</sub>](https://github.com/nicolaslinaresrojas) |
