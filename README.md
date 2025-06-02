@@ -30,7 +30,7 @@ For REAL, they collected the images from Krizhevsky & Hinton's CIFAR-10 dataset
 
 For the FAKE images, they generated the equivalent of CIFAR-10 with Stable Diffusion version 1.4
 
-There are 100,000 images for training (50k per class) and 20,000 for testing (10k per class)
+There are 100,000 images for training (60k per class) and 20,000 for testing (10k per class)
 
 🔗 [Ir al dataset en Kaggle](https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images)
 
@@ -38,7 +38,7 @@ There are 100,000 images for training (50k per class) and 20,000 for testing (10
 
 ## 📁 Acceso al proyecto
 - Descarga y montar el archivo ´.ipynb´ a un collab notebook
-- Descargar la carpeta de ´Datos´ y ´Modelo´ y extraerla dentro de una carpeta personal (eleccion propia) de google drive donde se destinaran los archivos del proyecto
+- Descargar la carpeta de ´Datos´ y ´Modelos´ y extraerla dentro de una carpeta personal (eleccion propia) de google drive donde se destinaran los archivos del proyecto
 
 ### 🛠️ Abre y ejecuta el proyecto
 - 📌 Referencia para celdas de codigo que son auxiliares
