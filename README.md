@@ -83,7 +83,7 @@ There are 100,000 images for training (60k per class) and 20,000 for testing (10
 
 ---
 
-## 🎥 video
+## 🎥 Video
 https://youtu.be/tBBVRDBCrAo
 
 ---
